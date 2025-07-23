@@ -1,0 +1,651 @@
+2025-07-23 08:16:51,757 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 08:16:55,185 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 08:16:55,326 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 08:16:55,330 - telegram.ext.Application - INFO - Application started
+2025-07-23 08:17:05,758 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:17:15,902 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:17:26,050 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:17:36,202 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:17:40,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:17:40,716 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendChatAction "HTTP/1.1 200 OK"
+2025-07-23 08:17:40,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 08:17:41,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 08:17:44,682 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 08:17:47,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendVideo "HTTP/1.1 200 OK"
+2025-07-23 08:17:47,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteMessage "HTTP/1.1 200 OK"
+2025-07-23 08:17:47,216 - bot - INFO - Successfully sent video to user 7305730984: Messi body feints Skills messi messi_king goat football foot...
+2025-07-23 08:17:50,403 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:00,545 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:10,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:20,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:30,980 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:41,126 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:18:51,270 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:01,416 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:11,559 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:21,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:31,850 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:41,995 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:19:52,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:02,340 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:12,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:22,631 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:23,107 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:23,592 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 08:20:29,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:30,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 08:20:39,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:20:49,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:00,084 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:06,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:06,558 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 08:21:15,089 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:15,533 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendChatAction "HTTP/1.1 200 OK"
+2025-07-23 08:21:15,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 08:21:15,854 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 08:21:18,689 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 08:21:20,806 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendVideo "HTTP/1.1 200 OK"
+2025-07-23 08:21:20,964 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteMessage "HTTP/1.1 200 OK"
+2025-07-23 08:21:20,966 - bot - INFO - Successfully sent video to user 5514610523: Messi body feints Skills messi messi_king goat football foot...
+2025-07-23 08:21:25,237 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:35,386 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:45,532 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:21:55,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:05,827 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:15,970 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:26,115 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:36,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:46,403 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:22:56,547 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:06,693 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:16,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:26,981 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:37,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:47,269 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:23:57,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:24:07,559 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:24:17,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 08:24:27,851 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:24:00,495 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:24:00,500 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:24:00,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:24:00,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:24:01,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:24:01,079 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:24:01,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:24:01,083 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:24:01,508 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:24:01,676 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendChatAction "HTTP/1.1 200 OK"
+2025-07-23 09:24:01,845 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:24:02,033 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:24:02,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:02,084 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:05,240 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:24:06,229 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:06,230 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:06,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendVideo "HTTP/1.1 200 OK"
+2025-07-23 09:24:07,132 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteMessage "HTTP/1.1 200 OK"
+2025-07-23 09:24:07,133 - bot - INFO - Successfully sent video to user 7305730984: futsal futebolderua
+2025-07-23 09:24:07,374 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:07,375 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:12,020 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:12,021 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:13,666 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:13,667 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:19,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:19,065 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:21,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:21,460 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:24,980 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:24,981 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:28,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:28,502 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:33,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:33,998 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:39,495 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:39,496 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:47,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:47,529 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:24:55,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:24:55,571 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:25:05,567 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:25:07,410 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:25:07,411 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:25:11,571 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:25:11,572 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:25:18,558 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:25:28,701 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:25:29,102 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:25:29,103 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:25:33,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:25:33,250 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:25:40,250 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:25:50,394 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:25:59,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:25:59,331 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:26:03,476 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:26:03,477 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:26:10,479 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:26:20,625 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:26:30,769 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:26:33,932 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:26:33,933 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:26:38,078 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:26:38,079 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:26:45,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:26:55,223 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:27:05,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:27:08,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:27:08,536 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:27:12,681 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:27:12,681 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:27:19,681 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:27:29,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:27:39,972 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:27:43,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:27:43,143 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:27:47,290 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 09:27:47,292 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 09:27:54,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:28:02,956 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:28:02,956 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:28:02,956 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:28:27,775 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:28:37,920 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:28:48,065 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:28:58,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:29:07,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:29:07,259 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:29:07,259 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:29:09,633 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:29:10,066 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:29:10,208 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:29:10,210 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:29:20,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:29:30,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:29:40,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:29:51,065 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:01,210 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:11,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:21,497 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:31,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:41,784 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:30:51,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:02,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:12,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:22,358 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:32,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:42,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:31:52,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:02,932 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:13,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:23,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:33,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:43,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:32:53,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:03,792 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:13,935 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:24,079 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:34,222 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:44,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:33:54,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:01,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:01,819 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:34:01,820 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:34:05,718 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:34:06,166 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:34:06,310 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:34:06,312 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:34:16,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:26,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:37,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:47,176 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:57,321 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:59,090 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:34:59,529 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 400 Bad Request"
+2025-07-23 09:34:59,531 - bot - ERROR - Update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='......', id=7305730984, type=<ChatType.PRIVATE>, username='Username0000i'), date=datetime.datetime(2025, 7, 23, 9, 34, 59, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=32, offset=0, type=<MessageEntityType.URL>), MessageEntity(length=33, offset=112, type=<MessageEntityType.URL>)), from_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), group_chat_created=False, link_preview_options=LinkPreviewOptions(is_disabled=True), message_id=18, supergroup_chat_created=False, text='https://vm.tiktok.com/ZMSWted1H/ This post is shared via TikTok Lite. Download TikTok Lite to enjoy more posts: https://www.tiktok.com/tiktoklite'), update_id=487911114) caused error Button_data_invalid
+2025-07-23 09:34:59,705 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:35:09,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:19,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:29,524 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:39,668 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:46,737 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:47,286 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:35:49,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:35:49,897 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:35:59,749 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:03,769 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:04,243 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 400 Bad Request"
+2025-07-23 09:36:04,244 - bot - ERROR - Update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='......', id=7305730984, type=<ChatType.PRIVATE>, username='Username0000i'), date=datetime.datetime(2025, 7, 23, 9, 36, 3, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=32, offset=0, type=<MessageEntityType.URL>), MessageEntity(length=33, offset=112, type=<MessageEntityType.URL>)), from_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), group_chat_created=False, link_preview_options=LinkPreviewOptions(is_disabled=True), message_id=24, supergroup_chat_created=False, text='https://vm.tiktok.com/ZMSWted1H/ This post is shared via TikTok Lite. Download TikTok Lite to enjoy more posts: https://www.tiktok.com/tiktoklite'), update_id=487911117) caused error Button_data_invalid
+2025-07-23 09:36:04,417 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:36:13,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:24,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:34,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:44,353 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:54,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:57,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:36:57,842 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:37:06,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:37:06,965 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:37:16,627 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:37:26,771 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:37:36,915 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:37:47,060 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:37:57,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:07,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:17,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:27,639 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:37,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:47,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:38:58,071 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:08,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:18,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:28,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:38,649 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:48,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:48,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:39:49,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-23 09:39:49,572 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:49,743 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:50,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:51,403 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:52,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:52,555 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:52,719 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/editMessageText "HTTP/1.1 200 OK"
+2025-07-23 09:39:54,991 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendVideo "HTTP/1.1 200 OK"
+2025-07-23 09:39:55,173 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteMessage "HTTP/1.1 200 OK"
+2025-07-23 09:39:55,175 - bot - INFO - Successfully sent standard quality video to user 7305730984: Messi body feints Skills messi messi_king goat football foot...
+2025-07-23 09:39:59,082 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:09,226 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:19,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:29,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:39,660 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:49,806 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:40:59,950 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:41:10,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:41:20,238 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:41:30,382 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:41:40,527 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:41:50,672 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:00,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:10,961 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:19,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:19,016 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:42:19,016 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:42:21,735 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:42:22,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:42:22,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:42:22,318 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:42:32,748 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:42,892 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:42:53,037 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:03,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:13,326 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:23,473 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:33,620 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:43,763 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:43:53,906 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:04,054 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:14,205 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:24,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:34,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:44,648 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:44:54,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:04,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:15,090 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:25,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:35,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:45,525 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:51,247 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:45:51,248 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:45:51,248 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:45:55,009 - database_service - INFO - Database service initialized successfully
+2025-07-23 09:45:55,035 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:45:55,465 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:45:55,609 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:45:55,613 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:46:06,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:16,183 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:26,328 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:36,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:46,612 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:55,339 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:46:55,340 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:46:55,340 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:46:57,825 - database_service - INFO - Database service initialized successfully
+2025-07-23 09:46:57,853 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:46:58,288 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:46:58,429 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:46:58,431 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:47:08,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:47:19,007 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:47:29,154 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:47:39,299 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:47:49,444 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:47:59,589 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:09,735 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:19,880 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:30,024 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:30,319 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:30,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:48:33,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:33,930 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:48:43,899 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:48:54,043 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:04,186 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:14,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:24,475 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:34,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:44,761 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:49:54,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:05,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:15,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:25,344 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:35,487 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:45,630 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:50:55,775 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:05,919 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:16,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:26,208 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:36,353 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:46,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:51:56,659 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:06,807 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:16,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:27,095 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:27,923 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:28,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 400 Bad Request"
+2025-07-23 09:52:28,383 - bot - ERROR - Update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='......', id=7305730984, type=<ChatType.PRIVATE>, username='Username0000i'), date=datetime.datetime(2025, 7, 23, 9, 52, 27, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=48, offset=0, type=<MessageEntityType.URL>),), from_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), group_chat_created=False, link_preview_options=LinkPreviewOptions(url='https://youtu.be/5OdVJbNCSso?si=Tlj1AHDN0RlOEdy5'), message_id=35, supergroup_chat_created=False, text='https://youtu.be/5OdVJbNCSso?si=Tlj1AHDN0RlOEdy5'), update_id=487911123) caused error Button_data_invalid
+2025-07-23 09:52:28,547 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:52:38,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:48,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:50,353 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:52:50,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 400 Bad Request"
+2025-07-23 09:52:50,789 - bot - ERROR - Update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='......', id=7305730984, type=<ChatType.PRIVATE>, username='Username0000i'), date=datetime.datetime(2025, 7, 23, 9, 52, 50, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=48, offset=0, type=<MessageEntityType.URL>),), forward_origin=MessageOriginUser(date=datetime.datetime(2025, 7, 23, 9, 52, 27, tzinfo=datetime.timezone.utc), sender_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), type=<MessageOriginType.USER>), from_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), group_chat_created=False, link_preview_options=LinkPreviewOptions(url='https://youtu.be/5OdVJbNCSso?si=Tlj1AHDN0RlOEdy5'), message_id=37, supergroup_chat_created=False, text='https://youtu.be/5OdVJbNCSso?si=Tlj1AHDN0RlOEdy5'), update_id=487911124) caused error Button_data_invalid
+2025-07-23 09:52:50,956 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 09:53:00,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:53:10,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:53:20,784 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:53:30,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:53:41,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:53:51,222 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:01,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:11,510 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:21,657 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:31,801 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:41,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:54:52,090 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:02,235 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:12,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:22,529 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:32,674 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:42,846 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:55:52,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:03,136 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:13,279 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:23,421 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:33,570 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:43,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:56:53,858 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:01,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:01,312 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 09:57:01,312 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 09:57:04,743 - database_service - INFO - Database service initialized successfully
+2025-07-23 09:57:04,764 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 09:57:05,203 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 09:57:05,345 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 09:57:05,347 - telegram.ext.Application - INFO - Application started
+2025-07-23 09:57:15,775 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:25,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:36,065 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:46,209 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:57:56,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:06,501 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:16,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:26,790 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:36,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:47,078 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:58:57,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:07,368 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:17,519 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:27,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:37,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:47,952 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 09:59:58,098 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:08,240 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:18,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:28,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:38,673 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:48,815 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:00:58,959 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:01:09,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:03:11,025 - database_service - INFO - Database service initialized successfully
+2025-07-23 10:03:11,059 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 10:03:11,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 10:03:11,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 10:03:11,643 - telegram.ext.Application - INFO - Application started
+2025-07-23 10:03:15,840 - database_service - INFO - Database service initialized successfully
+2025-07-23 10:03:15,885 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 10:03:16,340 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 10:03:16,488 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 10:03:16,492 - telegram.ext.Application - INFO - Application started
+2025-07-23 10:03:16,927 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:16,928 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:16,928 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:21,073 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:21,074 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:21,075 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:22,219 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:22,220 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:22,220 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:26,864 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:26,866 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:26,866 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:28,513 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:28,517 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:28,517 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:33,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:33,914 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:33,915 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:36,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:36,312 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:36,312 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:39,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:39,838 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:39,838 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:43,359 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:43,360 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:43,360 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:48,855 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:48,857 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:48,858 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:54,358 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:03:54,359 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:03:54,359 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:02,391 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:02,393 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:02,394 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:10,430 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:10,431 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:10,431 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:20,428 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:04:22,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:22,257 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:22,258 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:26,403 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:26,404 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:26,404 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:33,404 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:04:43,554 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:04:43,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:43,939 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:43,939 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:48,088 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:04:48,090 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:48,090 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:04:55,086 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:05,230 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:14,175 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:05:14,177 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:14,178 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:18,321 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:05:18,322 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:18,325 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:25,323 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:35,467 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:45,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:48,786 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:05:48,787 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:48,788 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:52,942 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:05:52,943 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:52,943 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:05:54,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:05:54,769 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-23 10:05:54,769 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-23 10:05:59,796 - database_service - INFO - Database service initialized successfully
+2025-07-23 10:05:59,817 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 10:05:59,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:06:00,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 10:06:00,405 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 10:06:00,407 - telegram.ext.Application - INFO - Application started
+2025-07-23 10:06:00,830 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:00,832 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:00,832 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:04,976 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:04,977 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:04,977 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:06,121 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:06,122 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:06,123 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:10,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:10,768 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:10,768 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:12,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:12,415 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:12,416 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:17,348 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:17,349 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:17,349 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:24,713 - database_service - INFO - Database service initialized successfully
+2025-07-23 10:06:24,733 - bot - INFO - Starting Telegram Video Downloader Bot...
+2025-07-23 10:06:25,165 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getMe "HTTP/1.1 200 OK"
+2025-07-23 10:06:25,308 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-23 10:06:25,309 - telegram.ext.Application - INFO - Application started
+2025-07-23 10:06:25,733 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:25,735 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:25,735 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:31,233 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:31,234 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:31,234 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:35,378 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:35,380 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:35,380 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:42,379 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:06:43,415 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:43,416 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:43,416 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:47,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:47,561 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:47,562 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:54,557 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:06:59,404 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:06:59,405 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:06:59,405 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:03,547 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:07:03,548 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:03,548 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:10,546 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:07:20,687 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:07:21,081 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:07:21,082 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:21,082 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:25,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:07:25,230 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:25,230 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:32,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:07:42,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:07:51,314 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 409 Conflict"
+2025-07-23 10:07:51,315 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:07:51,315 - bot - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-07-23 10:08:02,460 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:10,157 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:10,727 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 10:08:20,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:28,455 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:29,072 - bot - ERROR - Update Update(message=Message(channel_chat_created=False, chat=Chat(first_name='......', id=7305730984, type=<ChatType.PRIVATE>, username='Username0000i'), date=datetime.datetime(2025, 7, 23, 10, 8, 28, tzinfo=datetime.timezone.utc), delete_chat_photo=False, entities=(MessageEntity(length=6, offset=0, type=<MessageEntityType.BOT_COMMAND>),), from_user=User(first_name='......', id=7305730984, is_bot=False, language_code='en', username='Username0000i'), group_chat_created=False, message_id=41, supergroup_chat_created=False, text='/stats'), update_id=487911126) caused error 'Query' object has no attribute 'func'
+2025-07-23 10:08:29,526 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 10:08:36,335 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:36,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 10:08:46,478 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:08:56,621 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:06,765 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:16,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:27,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:37,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:47,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:09:57,479 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:07,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:17,766 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:27,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:38,051 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:48,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:10:58,340 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:08,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:18,625 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:28,767 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:38,911 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:49,054 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:11:59,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:12:09,339 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:12:19,481 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:12:29,624 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:12:39,766 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:12:49,909 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:00,051 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:10,195 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:20,336 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:30,481 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:40,623 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:13:50,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:00,906 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:11,053 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:21,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:31,339 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:41,481 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:14:51,622 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:01,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:11,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:22,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:32,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:42,342 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:15:52,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:02,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:12,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:22,921 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:33,066 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:43,209 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:16:53,353 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:03,495 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:13,640 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:23,782 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:33,926 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:44,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:17:54,213 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:04,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:14,499 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:24,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:34,789 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:44,932 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:18:55,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:05,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:15,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:25,507 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:35,652 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:45,795 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:19:55,938 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:20:06,081 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:20:16,227 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:20:26,313 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
+2025-07-23 10:20:26,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/sendMessage "HTTP/1.1 200 OK"
+2025-07-23 10:20:36,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7623419865:AAEd0P28WTFzQEQI-4HoJavHiGbwkLuV2Dk/getUpdates "HTTP/1.1 200 OK"
